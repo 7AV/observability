@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karlmathewramos/observability.git"
+    "url": "git+https://github.com/7AV/observability.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/karlmathewramos/observability/issues"
+    "url": "https://github.com/7AV/observability/issues"
   },
-  "homepage": "https://github.com/karlmathewramos/observability#readme",
+  "homepage": "https://github.com/7AV/observability#readme",
   "dependencies": {
     "@opentelemetry/api": "^1.4.1",
     "@opentelemetry/exporter-jaeger": "^1.18.1",
